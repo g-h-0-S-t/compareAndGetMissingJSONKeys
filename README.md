@@ -8,7 +8,7 @@ Copy your JSON (the one which has / may have missing keys), goto browser console
 Copy your dictionary JSON (the one which has all the keys), goto browser console, then type **var y =** then paste the copied JSON.  
 Then copy the code from **compareAndGetMissingJSONKeys.js** and save it as a browser bookmark.  
 Remember, **‘y' is your JSON dictionary, 'x’ is your missing-keys-JSON**.  
-Click the bookmark, you’ll get an array of flattened keys that is missing.  
+Click the bookmark, you’ll get an array of flattened keys that is missing, in your browser console.  
 
 **Example:**  
 
